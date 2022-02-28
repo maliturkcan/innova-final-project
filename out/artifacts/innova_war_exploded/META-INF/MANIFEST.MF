@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Mehmet
+Build-Jdk: Oracle OpenJDK version 11.0.13
+Implementation-Title: innova
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.kredi
+Main-Class: ${start-class}
+
